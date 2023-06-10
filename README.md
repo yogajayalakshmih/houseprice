@@ -1,4 +1,4 @@
-# Bike Sharing case study
+# House pricing prediction
 > Objective -  To build a multiple linear regression model for the prediction of house pricing.
 
 
